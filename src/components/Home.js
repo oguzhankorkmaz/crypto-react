@@ -27,7 +27,7 @@ function Home() {
 
   return (
     <>
-      <h1>Coins</h1>
+      <h1>Al LAn</h1>
       <div className="coin-area">
         <div className="grid g-3">
           {coin.map((item, index) => (
